@@ -15,7 +15,7 @@ The project involved RTL design, simulation and synthesis of a configurable Arti
 
 
 ## Tradeoff Analyis
-<img src="image/PvsT.png" width="450" height="350"/>  <img src="image/TvsM.png" width=450 height="350'/>
+<img src="image/PvsT.png" width="450" height="350"/>  <img src="image/TvsM.png" width="450" height="350"/>
 
 
 ## Compilations steps:
