@@ -4,7 +4,7 @@
 The project involved RTL design, simulation and synthesis of a configurable Artificial Neural Network creating a parameterizable HDL generation tool in C++ to create an optimized 3-Layer Neural Network. This software flexibly generates hardware to accelerate the evaluation of three layers of convolution. Each layer is based on an ARM’s AXI4 handshaking protocol and is individually configurable. The optimization algorithm decides the parallelism for each layer to maximize the throughput.
 
 ## Block Diagram
-![3-Layer System](images/threeLS.png)
+![3-Layer System](image/threeLS.png)
 
 
 ## Tradeoffs with parameters N, M, T, P:
@@ -15,7 +15,7 @@ The project involved RTL design, simulation and synthesis of a configurable Arti
 
 
 ## Tradeoff Analyis
-![Power vs T](images/PvsT.png) ![Throughput vs M](images/TvsM.png)
+![Power vs T](image/PvsT.png) ![Throughput vs M](image/TvsM.png)
 
 
 ## Compilations steps:
