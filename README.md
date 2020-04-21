@@ -15,7 +15,7 @@ The project involved RTL design, simulation and synthesis of a configurable Arti
 
 
 ## Tradeoff Analyis
-![Power vs T](image/PvsT.png =450x350) ![Throughput vs M](image/TvsM.png =450x350)
+![Power vs T | 450x350](image/PvsT.png) ![Throughput vs M | 450x350](image/TvsM.png)
 
 
 ## Compilations steps:
